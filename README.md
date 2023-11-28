@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello there 👋
+
+- 🔭 I’m currently working on various web projects for fun.
+- 🌱 I’m currently learning programming and web development.
+- 😊 I'm still a student, learning to program in my free time.
 
 <!--
 **pvk05/pvk05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
