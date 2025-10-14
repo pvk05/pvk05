@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on various web projects for fun.
 - 🌱 I’m currently learning programming and web development.
-- 😊 I am studying for a bachelor's degree in Robotics and Intelligent Systems at the University of Oslo (UiO)
+- 😊 I am studying for a bachelor's degree in Programming and Systemsarchitecture at the University of Oslo (UiO)
 
 <!--
 **pvk05/pvk05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
